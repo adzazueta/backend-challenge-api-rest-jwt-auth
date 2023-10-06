@@ -6,8 +6,6 @@ Welcome to the challenge for the Backend Developer position! This README contain
 
 The objective of this test is to evaluate your skills in designing and developing a secure and efficient RESTful API with JWT authentication. You'll need to implement three key endpoints and ensure that authentication works correctly:
 
-## Required Functionalities
-
 1. **Login Endpoint**: This endpoint should receive user access data (e.g., username and password) and return a valid JWT token if the credentials are correct.
 
 2. **Token Verification Endpoint**: This endpoint should receive a JWT token in the authorization header and verify if it's valid. It should return the decoded token information if it's correct.
